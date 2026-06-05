@@ -10,7 +10,7 @@ Datasets supporting the paper:
 
 Two datasets from pulsed accelerator subsystems at **SSRL, SLAC National Accelerator Laboratory**:
 
-- **`ickerWF.zip`** — Current waveforms from three SSRL beam kicker systems 
+- **`kickWF.zip`** — Current waveforms from three SSRL beam kicker systems 
   (booster extraction, booster injection, SPEAR3 injection), sampled at 100 MHz, 
   spanning 2021–2024 (~3 years, several hundred waveforms per system).
 
